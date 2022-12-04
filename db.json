@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": 2001,
+      "color": "blue",
+      "quantity": 50
+    },
+    {
+      "id": 2002,
+      "color": "red",
+      "quantity": 20
+    }
+  ]
+}
